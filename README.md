@@ -1,26 +1,17 @@
 <<<<<<< HEAD
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Initial Ruby on Rails test app to make sure everything is working smoothly.
 
-Things you may want to cover:
+Live App: https://voyage-croissant-16429.herokuapp.com/drinks
 
-* Ruby version
+Instructions I followed to setup my machine for Git, RVM, Ruby, and Rails: http://installfest.railsbridge.org/installfest/
 
-* System dependencies
+* Ruby version - 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin15]
 
-* Configuration
+* System - Created on MAC OS X El Capitan 10.11.5
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
 =======
